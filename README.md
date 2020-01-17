@@ -3,13 +3,19 @@ $ Simple music bot with a full-blown queue system that is easy to understand
 
 # Install
 npm i
-Usage
+
+# Usage
+
 Edit the config.js file:
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n
-exports.TOKEN = ''; // Your token here\n
-exports.PREFIX = 'm!'; // Your preferred prefix here\n
-exports.GOOGLE_API_KEY = ''; // Your youtube/google API key here\n
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+exports.TOKEN = ''; // Your token here
+
+exports.PREFIX = 'm!'; // Your preferred prefix here
+
+exports.GOOGLE_API_KEY = ''; // Your youtube/google API key here
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 # Contributing
 
