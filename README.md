@@ -1,7 +1,20 @@
-# discord.js-series
+# Music Bot 
+$ Simple music bot with a full-blown queue system that is easy to understand
 
-Follow along with my Discord.js Bot Development series!
+# Install
+npm i
+Usage
+Edit the config.js file:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+exports.TOKEN = ''; // Your token here
+exports.PREFIX = 'm!'; // Your preferred prefix here
+exports.GOOGLE_API_KEY = ''; // Your youtube/google API key here
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Discord: https://discord.gg/AHktV3G
+# Contributing
 
-Want to contribute or submit requests for new videos! Join the Discord!
+Fork it!
+Submit a pull request :D
+
+# -= Author =-
+Music-Bot © Helixa , Released under the MIT License.
