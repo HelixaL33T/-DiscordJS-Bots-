@@ -7,6 +7,7 @@ npm i
 # Usage
 
 Edit the config.js file:
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 exports.TOKEN = ''; // Your token here
