@@ -1,7 +1,26 @@
-# discord.js-series
+# Features
+- Customizable messages, reactions, command, and roles
 
-Follow along with my Discord.js Bot Development series!
+Auto-removes role when user removes a reaction
 
-Discord: https://discord.gg/AHktV3G
+Option to use an embed to have all options in one message
 
-Want to contribute or submit requests for new videos! Join the Discord!
+Error handling to let you know if something is wrong
+
+# Installation
+- Clone this repository to your local machine.
+
+Run the npm install command to install discord.js
+
+Copy the config.example.js file and rename it to config.js. Open that file and modify the different properties to your liking. Most options are straightforward, however, there is commenting where approriate
+
+# Recommended Permissions
+- These are the recommended permissions the bot should be assigned for full functionality. Errors will be thrown if the bot fails to have any of the permissions below.
+
+Manage Roles
+Read Text Channels & See Voice Channels
+Send Messages
+Manage Messages
+Embed Links
+Read Message History
+Add Reactions
