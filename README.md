@@ -10,7 +10,8 @@
 # Installation
 - Clone this repository to your local machine.
 
-- Run the npm install command to install discord.js
+- Install Discord.JS
+  ( npm install discord.js )
  
 - Open config.js file and modify the different properties to your liking. Most options are straightforward, however, there is commenting where approriate
 
