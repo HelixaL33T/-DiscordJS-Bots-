@@ -1,7 +1,15 @@
-# discord.js-series
+# Fun Discord Bot
 
-Follow along with my Discord.js Bot Development series!
+- How to install it?
 
-Discord: https://discord.gg/AHktV3G
+- npm install discord.js superagent nodemon
 
-Want to contribute or submit requests for new videos! Join the Discord!
+# Starting the bot
+
+- How to start it?
+
+- Edit app.js ( logToken and Prefix )
+
+- Edit configure.json ( LogChannel ) and put the id for your! ( Only staff may see it! )
+
+- then run in the terminal 'nodemon app.js'
