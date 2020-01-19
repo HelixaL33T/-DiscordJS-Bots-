@@ -1,7 +1,11 @@
-# discord.js-series
+# Giveaway Bot 
 
-Follow along with my Discord.js Bot Development series!
+- Installing the requirements for this bot?
 
-Discord: https://discord.gg/AHktV3G
+- npm install discord.ks path moment fs klaw nodemon
 
-Want to contribute or submit requests for new videos! Join the Discord!
+# Starting the bot?
+
+- Edit config.json in base folder 
+
+- in terminal run cd source/ then nodemon index.js
